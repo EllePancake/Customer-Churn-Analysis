@@ -43,9 +43,9 @@ In this task, few datasets are provided:
 
 ## Process
 
-> See SQL questions & answers [here](https://github.com/EllePancake/Customer-Churn-Analysis/blob/main/Customer%20Churn%20Analysis%20-%20SQL%20Questions.ipynb)
-> See Jupyter Notebook with initial analysis & exploration [here](https://github.com/EllePancake/Customer-Churn-Analysis/blob/main/Customer%20Churn%20-%20Initial%20Analysis.ipynb)
-> See Jupyter Notebook with additional analysis [here]()
+> - See SQL questions & answers [here](https://github.com/EllePancake/Customer-Churn-Analysis/blob/main/Customer%20Churn%20Analysis%20-%20SQL%20Questions.ipynb)
+> - See Jupyter Notebook with initial analysis & exploration [here](https://github.com/EllePancake/Customer-Churn-Analysis/blob/main/Customer%20Churn%20-%20Initial%20Analysis.ipynb)
+> - See Jupyter Notebook with additional analysis [here]()
 
 Python libraries used: NumPy, Pandas, Matplotlib, Seaborn, scipy, sklearn, 
 
